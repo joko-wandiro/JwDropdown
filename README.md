@@ -13,9 +13,11 @@ so you can set Bootstrap NavBar to be clickable on Specific Devices Phone, Table
 
 Easy implementations like Bootstrap Dropdown:
 
-`
+<pre>
+<code>
 $(selector).jwdropdown();
-`
+</code>
+</pre>
 
 ##### [Demo](http://demo.phantasmacode.com/jwdropdown/)
 ##### License: [http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
