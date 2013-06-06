@@ -12,6 +12,7 @@ Hover on screen > 768px and Click on screen < 768px,
 so you can set Bootstrap NavBar to be clickable on Specific Devices Phone, Tablet or Desktop.
 
 Easy implementations like Boostrap Dropdown:
+
 `
 $(selector).jwdropdown();
 `
