@@ -103,10 +103,12 @@ overflow: visible;*/
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<script src="js/bootstrap.jwdropdown.js"></script>
+<script src="js/bootstrap.jwdropdown.min.js"></script>
 <script>
 $(document).ready( function(){
 	$('#navbar-clickable-on-tablet-portrait .dropdown-toggle').jwdropdown();
+	$('.dropdown-toggle').jwdropdown();
+	$(selector).jwdropdown();
 })
 $(window).resize( function(){
 	console.log("resize");
