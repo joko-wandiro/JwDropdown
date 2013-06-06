@@ -17,4 +17,5 @@ Easy implementations like Bootstrap Dropdown:
 $(selector).jwdropdown();
 `
 
-[Demo](http://demo.phantasmacode.com/jwdropdown/)
+### [Demo](http://demo.phantasmacode.com/jwdropdown/)
+### License: [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/)
