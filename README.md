@@ -18,4 +18,4 @@ $(selector).jwdropdown();
 `
 
 ##### [Demo](http://demo.phantasmacode.com/jwdropdown/)
-##### License: [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+##### License: [http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
