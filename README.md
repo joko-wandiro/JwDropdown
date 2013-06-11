@@ -19,5 +19,5 @@ $(selector).jwdropdown();
 </code>
 </pre>
 
-##### [Demo](http://demo.phantasmacode.com/jwdropdown/)
+##### [Demo](http://jwdropdown.phantasmacode.com/)
 ##### License: [http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
